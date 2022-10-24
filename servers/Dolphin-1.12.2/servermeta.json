@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/dolphin/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Dolphin (Minecraft 1.12.2)",
+    "description": "Dolphin Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "돌핀 온라인에서 생활하는 중",
+      "largeImageText": "",
+      "largeImageKey": "icon"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "14.23.5.2860"
+  },
+  "untrackedFiles": []
+}
