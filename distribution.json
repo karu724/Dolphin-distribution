@@ -30,7 +30,7 @@
           "artifact": {
             "size": 4466148,
             "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 11799,
                 "MD5": "fdf65dd024faa5c9a51372e5fb975dfe",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/versions/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/versions/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 387903,
                 "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -120,7 +120,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
               }
             },
             {
@@ -130,7 +130,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
               }
             },
             {
@@ -140,7 +140,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -150,7 +150,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -160,7 +160,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -170,7 +170,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -180,7 +180,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -190,7 +190,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -200,7 +200,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -210,7 +210,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -220,7 +220,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             },
             {
@@ -230,7 +230,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             },
             {
@@ -240,7 +240,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -250,7 +250,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             }
           ]
@@ -261,7 +261,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1925728,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/bookworm-1.12.2-2.5.2.1.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/bookworm-1.12.2-2.5.2.1.jar",
             "MD5": "f31cf69f387844f97fa3de429f26b2f7"
           }
         },
@@ -271,7 +271,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2454924,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/cfm-6.3.0-mc1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/cfm-6.3.0-mc1.12.2.jar",
             "MD5": "b1e5c79ed6e9e4602f25419e21497975"
           }
         },
@@ -281,7 +281,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 737407,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/chiselsandbits-14.33.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/chiselsandbits-14.33.jar",
             "MD5": "e056e23559965f2ebabf47aad0fe51a3"
           }
         },
@@ -291,7 +291,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 589828,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/CookingForBlockheads_1.12.2-6.4.70.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/CookingForBlockheads_1.12.2-6.4.70.jar",
             "MD5": "942d63804263b04516eb49ddba125e59"
           }
         },
@@ -301,7 +301,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1290012,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/CreativeCore_v1.10.65_mc1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/CreativeCore_v1.10.65_mc1.12.2.jar",
             "MD5": "e6e4ad48ce7d4f0cd47a5d106dbad745"
           }
         },
@@ -311,7 +311,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9911871,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
           }
         },
@@ -321,7 +321,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15929762,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/optionalon/dynamicsurroundings-1.12.2-3.6.1.0.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/optionalon/dynamicsurroundings-1.12.2-3.6.1.0.jar",
             "MD5": "1a0d50a34941865ff091a492e0612502"
           },
           "required": {
@@ -334,7 +334,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2058816,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/emoticons-1.0.1-1.12.2-dist.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/emoticons-1.0.1-1.12.2-dist.jar",
             "MD5": "0d72d3d6eafddd6387280c5f7c77caeb"
           }
         },
@@ -344,7 +344,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/optionalon/koreanchat-creo-1.12-1.9.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/optionalon/koreanchat-creo-1.12-1.9.jar",
             "MD5": "91492de16021a4f7018eb5d523f45fc2"
           },
           "required": {
@@ -357,7 +357,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 649252,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/mclib-2.3.5-1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/mclib-2.3.5-1.12.2.jar",
             "MD5": "30a64410b0cb66e19a02e3db6afcd998"
           }
         },
@@ -367,7 +367,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 173426,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/MCMultiPart-2.5.3.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/MCMultiPart-2.5.3.jar",
             "MD5": "47987d111d6f1e48403bc3cbb23f5503"
           }
         },
@@ -377,7 +377,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 27545802,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/mw_2.0-0.4.4.6_mc1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/mw_2.0-0.4.4.6_mc1.12.2.jar",
             "MD5": "69cbe3bd707a5284b1af20ebf0a9b0b9"
           }
         },
@@ -387,7 +387,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 129099,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/obfuscate-0.4.2-mc1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/obfuscate-0.4.2-mc1.12.2.jar",
             "MD5": "a5d3ac71ec8762fe72a91465de6d30a3"
           }
         },
@@ -397,7 +397,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 79452,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar",
             "MD5": "f893cc9f646633a93af60e79dc295f96"
           }
         },
@@ -407,7 +407,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 341728,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/orelib-1.12.2-3.6.0.1.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/orelib-1.12.2-3.6.0.1.jar",
             "MD5": "00cce3b240365458adcad3e77782358a"
           }
         },
@@ -417,7 +417,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4912890,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/Pam's+HarvestCraft+1.12.2zg.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/Pam's+HarvestCraft+1.12.2zg.jar",
             "MD5": "e8e1ac67accdeea50116e1e92e592397"
           }
         },
@@ -427,7 +427,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 228660,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/optionalon/smoothfont-1.12.2-1.16-b3.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/optionalon/smoothfont-1.12.2-1.16-b3.jar",
             "MD5": "ce7261ddabc51be714df732365ca3760"
           },
           "required": {
@@ -440,7 +440,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2139906,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/vehicle-0.44.1-mc1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/vehicle-0.44.1-mc1.12.2.jar",
             "MD5": "276818770667c1bff569d92287c53d95"
           }
         },
@@ -450,7 +450,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 445000,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/optionalon/VoiceChat-1.12.2-0.7.0.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/optionalon/VoiceChat-1.12.2-0.7.0.jar",
             "MD5": "d8bb047f700fca6ac08a88f9abb45d82"
           },
           "required": {
@@ -463,7 +463,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12673663,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/forgemods/required/zawa-1.12.2-2.1.3.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/zawa-1.12.2-2.1.3.jar",
             "MD5": "8f993a87fd5ae86e48dd50aeba3aff47"
           }
         },
@@ -473,7 +473,7 @@
           "type": "Library",
           "artifact": {
             "size": 2598821,
-            "url": "https://github.com/karu724/Dolphin-Distribution/blob/main/servers/Dolphin-1.12.2/libraries/optifine-1.12.2_HD_U_F5.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/optifine-1.12.2_HD_U_F5.jar",
             "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
           }
         }
