@@ -256,6 +256,26 @@
           ]
         },
         {
+          "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
+          "name": "Armourers-Workshop-1.12.2-0.51.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2678747,
+            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
+            "MD5": "12954551f39bed840b32fd8be8fddb54"
+          }
+        },
+        {
+          "id": "kr.honeybee:BeeMod:1.0@jar",
+          "name": "BeeMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47866,
+            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/BeeMod-1.0-SNAPSHOT.jar",
+            "MD5": "1bda25bf7309112f2c7f9596e591c64e"
+          }
+        },
+        {
           "id": "net.soggymustache:bookworm:2.5.2.1@jar",
           "name": "Bookworm Library",
           "type": "ForgeMod",
