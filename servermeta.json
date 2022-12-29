@@ -2,8 +2,8 @@
   "$schema": "file:///E:/Launcher/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "dolphin (Minecraft 1.12.2)",
-    "description": "beeserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+    "name": "Dolphin (Minecraft 1.12.2)",
+    "description": "Dolphin Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
     "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
