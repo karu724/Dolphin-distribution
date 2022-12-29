@@ -427,7 +427,7 @@
           "type": "Library",
           "artifact": {
             "size": 2598821,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/forgemods/required/OptiFine.jar",
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/library/OptiFine.jar",
             "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
           }
         },
