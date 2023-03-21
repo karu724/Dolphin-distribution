@@ -20,8 +20,8 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
@@ -266,7 +266,7 @@
           }
         },
         {
-          "id": "kr.honeybee:BeeMod:1.0-SNAPSHOT@jar",
+          "id": "kr.honeybee:BeeMod:2.0-SNAPSHOT@jar",
           "name": "BeeMod",
           "type": "ForgeMod",
           "artifact": {
