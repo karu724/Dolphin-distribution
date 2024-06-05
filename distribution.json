@@ -636,13 +636,13 @@
           }
         },
         {
-          "id": "generated.library:DynamX:4.0.1-all@jar",
+          "id": "generated.library:DynamX:4.0.2-all@jar",
           "name": "DynamX",
           "type": "Library",
           "artifact": {
-            "size": 3255486,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/DynamX-4.0.1-all.jar",
-            "MD5": "9009e72b28ece94556c9f2ecdc8625ea"
+            "size": 3141465,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/DynamX-4.0.2-all.jar",
+            "MD5": "a09151a04b134bf6d53536a89059c86f"
           }
         },
         {
