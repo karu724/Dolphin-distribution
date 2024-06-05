@@ -498,7 +498,7 @@
         {
           "id": "generated.library:Generals_General_Vehicles_2.4.1:0.0.0@jar",
           "name": "Generals_General_Vehicles_2.4.1",
-          "type": "Library",
+          "type": "ForgeMod",
           "artifact": {
             "size": 115535209,
             "url": "https://mediafilez.forgecdn.net/files/5294/386/Generals_General_Vehicles_2.4.1.jar",
@@ -518,7 +518,7 @@
         {
           "id": "generated.library:Potato:vehicle-Industries-V5@jar",
           "name": "Potato",
-          "type": "Library",
+          "type": "ForgeMod",
           "artifact": {
             "size": 16005806,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/Potato-vehicle-Industries-V5.jar",
