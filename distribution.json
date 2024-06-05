@@ -256,103 +256,13 @@
           ]
         },
         {
-          "id": "net.geforcemods:securitycraft:v1.9.9@jar",
-          "name": "SecurityCraft",
+          "id": "fr.aym:sqript:1.2.4@jar",
+          "name": "Sqript",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3875576,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/[1.12.2]%20SecurityCraft%20v1.9.9.jar",
-            "MD5": "fa5146fd486bdf12fe90e21b76e37a6a"
-          }
-        },
-        {
-          "id": "com.elytradev.architecture:architecturecraft:1.12-3.108@jar",
-          "name": "ArchitectureCraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 925535,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/architecturecraft-1.12-3.108.jar",
-            "MD5": "7017f0fe04ffd2aef0904478b4fc8b73"
-          }
-        },
-        {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
-          "name": "Armourer's Workshop",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2678747,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
-            "MD5": "12954551f39bed840b32fd8be8fddb54"
-          }
-        },
-        {
-          "id": "kr.honeybee:BeeMod:1.0@jar",
-          "name": "BeeMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3939244,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/BeeMod-2.0.jar",
-            "MD5": "eb206e785a46bf691472145dcd6642d2"
-          }
-        },
-        {
-          "id": "net.soggymustache:bookworm:2.5.2.1@jar",
-          "name": "Bookworm Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1925728,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/bookworm-1.12.2-2.5.2.1.jar",
-            "MD5": "f31cf69f387844f97fa3de429f26b2f7"
-          }
-        },
-        {
-          "id": "com.mrcrayfish.furniture:cfm:6.3.0@jar",
-          "name": "MrCrayfish's Furniture Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2454924,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/cfm-6.3.0-mc1.12.2.jar",
-            "MD5": "b1e5c79ed6e9e4602f25419e21497975"
-          }
-        },
-        {
-          "id": "team.chisel:chisel:MC1.12.2-1.0.2.45@jar",
-          "name": "Chisel",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4755282,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/Chisel-MC1.12.2-1.0.2.45.jar",
-            "MD5": "54afc298f94e708f0e1cdf399200b2cb"
-          }
-        },
-        {
-          "id": "mod.chiselsandbits.core:chiselsandbits:14.33@jar",
-          "name": "Chisels & Bits",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 737407,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/chiselsandbits-14.33.jar",
-            "MD5": "e056e23559965f2ebabf47aad0fe51a3"
-          }
-        },
-        {
-          "id": "net.blay09.mods:cookingforblockheads:6.4.70@jar",
-          "name": "Cooking for Blockheads",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 589828,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/CookingForBlockheads_1.12.2-6.4.70.jar",
-            "MD5": "942d63804263b04516eb49ddba125e59"
-          }
-        },
-        {
-          "id": "noppes.npcs:customnpcs:1.12@jar",
-          "name": "CustomNPCs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9911871,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
-            "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
+            "size": 1123561,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/ACsGuis-1.2.11-all.jar",
+            "MD5": "eedbbc509a6d1400138cb2a330e7c663"
           }
         },
         {
@@ -366,43 +276,13 @@
           }
         },
         {
-          "id": "org.orecruncher:dsurround:1.12.2-3.6.3@jar",
-          "name": "Dynamic Surroundings",
+          "id": "fr.dynamx:dynamxmod:4.0.1@jar",
+          "name": "DynamX",
           "type": "ForgeMod",
           "artifact": {
-            "size": 15778870,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/DynamicSurroundings-1.12.2-3.6.3.jar",
-            "MD5": "77e815ce9c8dd68ecba4eb884d6db4d2"
-          }
-        },
-        {
-          "id": "com.ferreusveritas:dynamictrees:1.12.2-0.9.29@jar",
-          "name": "Dynamic Trees",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 909851,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/DynamicTrees-1.12.2-0.9.29.jar",
-            "MD5": "06b6a627a81b0573bd85caf40a665375"
-          }
-        },
-        {
-          "id": "mchorse.emoticons:emoticons:1.0.1-1.12.2@jar",
-          "name": "Emoticons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2058816,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/emoticons-1.0.1-1.12.2-dist.jar",
-            "MD5": "0d72d3d6eafddd6387280c5f7c77caeb"
-          }
-        },
-        {
-          "id": "net.mcreator.htwoos_scps:h2os_scps:1.0.0@jar",
-          "name": "HTWOOs SCPs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12219222,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/H2Os%20SCPs%201.8.4%20[Secure%20And%20Contain%20Update].jar",
-            "MD5": "71450b1af0ea405e71af2f23752a6a79"
+            "size": 3255486,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/DynamX-4.0.1-all.jar",
+            "MD5": "9009e72b28ece94556c9f2ecdc8625ea"
           }
         },
         {
@@ -416,83 +296,13 @@
           }
         },
         {
-          "id": "mcmultipart:mcmultipart:2.5.3@jar",
-          "name": "MCMultiPart",
+          "id": "mcheli:mcheli:1.1.3@jar",
+          "name": "MC Helicopter",
           "type": "ForgeMod",
           "artifact": {
-            "size": 173426,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/MCMultiPart-2.5.3.jar",
-            "MD5": "47987d111d6f1e48403bc3cbb23f5503"
-          }
-        },
-        {
-          "id": "com.vicmatskiv:mw:0.7.1@jar",
-          "name": "Modern Warfare ORI (3.0) Squared",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 37121488,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/mw3.0_sqr-0.7.25_BETA_mc1.12.2%20(3).jar",
-            "MD5": "48688bf872f7b7ff703fc169f1c0349f"
-          }
-        },
-        {
-          "id": "mariofish.niftyblocks:nifty:1.21@jar",
-          "name": "NiftyBlocks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2607982,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/NiftyBlocks-1.21.jar",
-            "MD5": "8236e6ab58b49996218ff6454f89cd50"
-          }
-        },
-        {
-          "id": "com.mrcrayfish.obfuscate.asm:obfuscate:0.4.2-mc1.12.2@jar",
-          "name": "Obfuscate",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 129099,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/obfuscate-0.4.2-mc1.12.2.jar",
-            "MD5": "a5d3ac71ec8762fe72a91465de6d30a3"
-          }
-        },
-        {
-          "id": "com.creativemd.opf:opframe:1.1@jar",
-          "name": "OnlinePictureFrame",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 79452,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar",
-            "MD5": "f893cc9f646633a93af60e79dc295f96"
-          }
-        },
-        {
-          "id": "net.mcreator.orvaalarms:orva_alarms:1.0.0@jar",
-          "name": "Orva Alarms",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3134795,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/Orva%20Alarms%20V4.0.0%20-%201.12.2.jar",
-            "MD5": "2973aa8fbc8b8256005a960c10cf817f"
-          }
-        },
-        {
-          "id": "com.pam:harvestcraft:1.12.2zg@jar",
-          "name": "Pam's HarvestCraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4912890,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/Pam's+HarvestCraft+1.12.2zg.jar",
-            "MD5": "e8e1ac67accdeea50116e1e92e592397"
-          }
-        },
-        {
-          "id": "net.mcreator:area_79_extras:1.0.0@jar",
-          "name": "SCP XK Scenario",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2580997,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/SCP-XK-Scenario-Version-1.1.0.jar",
-            "MD5": "337a4eddbd331b7b07f098c61094f6c8"
+            "size": 80933504,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/mcheli-1.1.3.jar",
+            "MD5": "8e28caceea937e7d108423b73d6e1db8"
           }
         },
         {
@@ -526,46 +336,6 @@
           }
         },
         {
-          "id": "com.fluffydoggomods.scplockdownextras:scple:1.0@jar",
-          "name": "SCP Lockdown Extras",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2256444,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/scple-1.0.jar",
-            "MD5": "e2ddb8f14a8fa65e54d146d9348ad153"
-          }
-        },
-        {
-          "id": "com.jaquadro.minecraft:storagedrawers:5.5.0@jar",
-          "name": "Storage Drawers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 609908,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/StorageDrawers-1.12.2-5.5.0.jar",
-            "MD5": "e47f3b1e3d6a016ee9478281853f52fc"
-          }
-        },
-        {
-          "id": "noppes.vc:variedcommodities:1.12.2@jar",
-          "name": "Varied Commodities",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1766394,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/VariedCommodities_1.12.2-(31Mar23).jar",
-            "MD5": "517cf8b1f3443b9fe1203ddf324eff69"
-          }
-        },
-        {
-          "id": "com.mrcrayfish:vehicle:0.44.1@jar",
-          "name": "MrCrayfish's Vehicle Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2139906,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/vehicle-0.44.1-mc1.12.2.jar",
-            "MD5": "276818770667c1bff569d92287c53d95"
-          }
-        },
-        {
           "id": "de.maxhenkel:voicechat:1.12.2-2.4.10@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
@@ -576,66 +346,6 @@
           }
         },
         {
-          "id": "org.zawamod:zawa:2.1.3@jar",
-          "name": "Zoo and Wild Animals Mod: Rebuilt",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12673663,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/zawa-1.12.2-2.1.3.jar",
-            "MD5": "8f993a87fd5ae86e48dd50aeba3aff47"
-          }
-        },
-        {
-          "id": "net.mcreator:zerascp:1.0.0@jar",
-          "name": "Zerascp",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1261283,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/zeras-SCPs-1.7.1.jar",
-            "MD5": "695ab6fdbb173b7f5f021cd9fa6753c2"
-          }
-        },
-        {
-          "id": "generated.library:Chameleon:1.12-4.1.3@jar",
-          "name": "Chameleon",
-          "type": "Library",
-          "artifact": {
-            "size": 96859,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/Chameleon-1.12-4.1.3.jar",
-            "MD5": "e42efa8f4fd42d2918128a826b740e98"
-          }
-        },
-        {
-          "id": "generated.library:CreativeCore_v1.10.65_mc1.12.2:0.0.0@jar",
-          "name": "CreativeCore_v1.10.65_mc1.12.2",
-          "type": "Library",
-          "artifact": {
-            "size": 1290012,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/CreativeCore_v1.10.65_mc1.12.2.jar",
-            "MD5": "e6e4ad48ce7d4f0cd47a5d106dbad745"
-          }
-        },
-        {
-          "id": "generated.library:CTM:MC1.12.2-1.0.2.31@jar",
-          "name": "CTM",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 199045,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/CTM-MC1.12.2-1.0.2.31.jar",
-            "MD5": "77a8bb5486c97e3eaa6f45e5bd768864"
-          }
-        },
-        {
-          "id": "generated.library:DynamX:4.0.1-all@jar",
-          "name": "DynamX",
-          "type": "Library",
-          "artifact": {
-            "size": 3255486,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/DynamX-4.0.1-all.jar",
-            "MD5": "9009e72b28ece94556c9f2ecdc8625ea"
-          }
-        },
-        {
           "id": "generated.library:Generals_General_Vehicles_2.4.1:0.0.0@jar",
           "name": "Generals_General_Vehicles_2.4.1",
           "type": "Library",
@@ -643,46 +353,6 @@
             "size": 115535209,
             "url": "https://mediafilez.forgecdn.net/files/5294/386/Generals_General_Vehicles_2.4.1.jar",
             "MD5": "31da285c387c2d1e0025b4b3d196587d"
-          }
-        },
-        {
-          "id": "generated.library:malisiscore:1.12.2-6.5.1@jar",
-          "name": "malisiscore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1939783,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/malisiscore-1.12.2-6.5.1.jar",
-            "MD5": "ccc183a97d7b9688a49bf29b61343f49"
-          }
-        },
-        {
-          "id": "generated.library:mclib:2.3.5-1.12.2@jar",
-          "name": "mclib",
-          "type": "Library",
-          "artifact": {
-            "size": 649252,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/mclib-2.3.5-1.12.2.jar",
-            "MD5": "30a64410b0cb66e19a02e3db6afcd998"
-          }
-        },
-        {
-          "id": "generated.library:OptiFine_1.12.2_HD_U_F5:0.0.0@jar",
-          "name": "OptiFine_1.12.2_HD_U_F5",
-          "type": "Library",
-          "artifact": {
-            "size": 2598821,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/OptiFine_1.12.2_HD_U_F5.jar",
-            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
-          }
-        },
-        {
-          "id": "generated.library:OreLib:1.12.2-3.6.0.1@jar",
-          "name": "OreLib",
-          "type": "Library",
-          "artifact": {
-            "size": 341728,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/OreLib-1.12.2-3.6.0.1.jar",
-            "MD5": "00cce3b240365458adcad3e77782358a"
           }
         },
         {
