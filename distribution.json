@@ -286,9 +286,9 @@
           }
         },
         {
-          "id": "kr.honeybee:beemod:1.0-SNAPSHOT@jar",
+          "id": "kr.honeybee:BeeMod:1.0-SNAPSHOT@jar",
           "name": "BeeMod",
-          "type": "ForgeMod",
+          "type": "Library",
           "artifact": {
             "size": 3939244,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/BeeMod-2.0.jar",
