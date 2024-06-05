@@ -20,8 +20,8 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
@@ -256,6 +256,16 @@
           ]
         },
         {
+          "id": "net.geforcemods:securitycraft:v1.9.9@jar",
+          "name": "SecurityCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3875576,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/[1.12.2]%20SecurityCraft%20v1.9.9.jar",
+            "MD5": "fa5146fd486bdf12fe90e21b76e37a6a"
+          }
+        },
+        {
           "id": "fr.aym:sqript:1.2.4@jar",
           "name": "Sqript",
           "type": "ForgeMod",
@@ -316,16 +326,6 @@
           }
         },
         {
-          "id": "com.jaquadro.minecraft:chameleon:1.12-4.1.3@jar",
-          "name": "Chameleon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 96859,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/Chameleon-1.12-4.1.3.jar",
-            "MD5": "e42efa8f4fd42d2918128a826b740e98"
-          }
-        },
-        {
           "id": "team.chisel:chisel:MC1.12.2-1.0.2.45@jar",
           "name": "Chisel",
           "type": "ForgeMod",
@@ -353,26 +353,6 @@
             "size": 589828,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/CookingForBlockheads_1.12.2-6.4.70.jar",
             "MD5": "942d63804263b04516eb49ddba125e59"
-          }
-        },
-        {
-          "id": "com.creativemd:creativecore:1.10@jar",
-          "name": "CreativeCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1290012,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/CreativeCore_v1.10.65_mc1.12.2.jar",
-            "MD5": "e6e4ad48ce7d4f0cd47a5d106dbad745"
-          }
-        },
-        {
-          "id": "team.chisel:ctm:MC1.12.2-1.0.2.31@jar",
-          "name": "CTM",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 199045,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/CTM-MC1.12.2-1.0.2.31.jar",
-            "MD5": "77a8bb5486c97e3eaa6f45e5bd768864"
           }
         },
         {
@@ -416,16 +396,6 @@
           }
         },
         {
-          "id": "fr.dynamx:dynamxmod:4.0.1@jar",
-          "name": "DynamX",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3255486,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/DynamX-4.0.1-all.jar",
-            "MD5": "9009e72b28ece94556c9f2ecdc8625ea"
-          }
-        },
-        {
           "id": "mchorse.emoticons:emoticons:1.0.1-1.12.2@jar",
           "name": "Emoticons",
           "type": "ForgeMod",
@@ -433,16 +403,6 @@
             "size": 2058816,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/emoticons-1.0.1-1.12.2-dist.jar",
             "MD5": "0d72d3d6eafddd6387280c5f7c77caeb"
-          }
-        },
-        {
-          "id": "generated.forgemod:generals_general_vehicles_2.4.1:0.0.0@jar",
-          "name": "Generals_General_Vehicles_2.4.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 115535209,
-            "url": "https://mediafilez.forgecdn.net/files/5294/386/Generals_General_Vehicles_2.4.1.jar",
-            "MD5": "31da285c387c2d1e0025b4b3d196587d"
           }
         },
         {
@@ -466,16 +426,6 @@
           }
         },
         {
-          "id": "net.malisis.core:malisiscore:1.12.2-6.5.1-SNAPSHOT@jar",
-          "name": "MalisisCore",
-          "type": "Library",
-          "artifact": {
-            "size": 1939783,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/malisiscore-1.12.2-6.5.1.jar",
-            "MD5": "ccc183a97d7b9688a49bf29b61343f49"
-          }
-        },
-        {
           "id": "net.malisis.doors:malisisdoors:1.12.2-7.3.0@jar",
           "name": "MalisisDoors",
           "type": "ForgeMod",
@@ -493,16 +443,6 @@
             "size": 80933504,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/mcheli-1.1.3.jar",
             "MD5": "8e28caceea937e7d108423b73d6e1db8"
-          }
-        },
-        {
-          "id": "mchorse.mclib:mclib:2.3.5-1.12.2@jar",
-          "name": "McLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 649252,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/mclib-2.3.5-1.12.2.jar",
-            "MD5": "30a64410b0cb66e19a02e3db6afcd998"
           }
         },
         {
@@ -556,26 +496,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
-          "name": "OptiFine 1.12.2_HD_U_F5",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2598821,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_F5.jar",
-            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
-          }
-        },
-        {
-          "id": "org.orecruncher:orelib:1.12.2-3.6.0.1@jar",
-          "name": "OreLib Support Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 341728,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/OreLib-1.12.2-3.6.0.1.jar",
-            "MD5": "00cce3b240365458adcad3e77782358a"
-          }
-        },
-        {
           "id": "net.mcreator.orvaalarms:orva_alarms:1.0.0@jar",
           "name": "Orva Alarms",
           "type": "ForgeMod",
@@ -593,26 +513,6 @@
             "size": 4912890,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/Pam's+HarvestCraft+1.12.2zg.jar",
             "MD5": "e8e1ac67accdeea50116e1e92e592397"
-          }
-        },
-        {
-          "id": "generated.forgemod:potato:vehicle-Industries-V5@jar",
-          "name": "Potato",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 16005806,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/Potato-vehicle-Industries-V5.jar",
-            "MD5": "5e02afb7361cdd455ae72fd8d1c16fba"
-          }
-        },
-        {
-          "id": "com.mia.craftstudio.minecraft:ptrmodellib:1.0.5@jar",
-          "name": "Ptrmodellib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 169749,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/PTRLib-1.0.5.jar",
-            "MD5": "7376e09acb5d531d28cb4d28a7f190fd"
           }
         },
         {
@@ -696,6 +596,16 @@
           }
         },
         {
+          "id": "de.maxhenkel:voicechat:1.12.2-2.4.10@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8499598,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/voicechat-forge-1.12.2-2.4.10.jar",
+            "MD5": "284b6c0dd07630c92f3cfb7cf6ea01ad"
+          }
+        },
+        {
           "id": "org.zawamod:zawa:2.1.3@jar",
           "name": "Zoo and Wild Animals Mod: Rebuilt",
           "type": "ForgeMod",
@@ -713,6 +623,116 @@
             "size": 1261283,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/zeras-SCPs-1.7.1.jar",
             "MD5": "695ab6fdbb173b7f5f021cd9fa6753c2"
+          }
+        },
+        {
+          "id": "generated.library:Chameleon:1.12-4.1.3@jar",
+          "name": "Chameleon",
+          "type": "Library",
+          "artifact": {
+            "size": 96859,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/Chameleon-1.12-4.1.3.jar",
+            "MD5": "e42efa8f4fd42d2918128a826b740e98"
+          }
+        },
+        {
+          "id": "generated.library:CreativeCore_v1.10.65_mc1.12.2:0.0.0@jar",
+          "name": "CreativeCore_v1.10.65_mc1.12.2",
+          "type": "Library",
+          "artifact": {
+            "size": 1290012,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/CreativeCore_v1.10.65_mc1.12.2.jar",
+            "MD5": "e6e4ad48ce7d4f0cd47a5d106dbad745"
+          }
+        },
+        {
+          "id": "generated.library:CTM:MC1.12.2-1.0.2.31@jar",
+          "name": "CTM",
+          "type": "Library",
+          "artifact": {
+            "size": 199045,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/CTM-MC1.12.2-1.0.2.31.jar",
+            "MD5": "77a8bb5486c97e3eaa6f45e5bd768864"
+          }
+        },
+        {
+          "id": "generated.library:DynamX:4.0.1-all@jar",
+          "name": "DynamX",
+          "type": "Library",
+          "artifact": {
+            "size": 3255486,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/DynamX-4.0.1-all.jar",
+            "MD5": "9009e72b28ece94556c9f2ecdc8625ea"
+          }
+        },
+        {
+          "id": "generated.library:Generals_General_Vehicles_2.4.1:0.0.0@jar",
+          "name": "Generals_General_Vehicles_2.4.1",
+          "type": "Library",
+          "artifact": {
+            "size": 115535209,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/Generals_General_Vehicles_2.4.1.jar",
+            "MD5": "31da285c387c2d1e0025b4b3d196587d"
+          }
+        },
+        {
+          "id": "generated.library:malisiscore:1.12.2-6.5.1@jar",
+          "name": "malisiscore",
+          "type": "Library",
+          "artifact": {
+            "size": 1939783,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/malisiscore-1.12.2-6.5.1.jar",
+            "MD5": "ccc183a97d7b9688a49bf29b61343f49"
+          }
+        },
+        {
+          "id": "generated.library:mclib:2.3.5-1.12.2@jar",
+          "name": "mclib",
+          "type": "Library",
+          "artifact": {
+            "size": 649252,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/mclib-2.3.5-1.12.2.jar",
+            "MD5": "30a64410b0cb66e19a02e3db6afcd998"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.12.2_HD_U_F5:0.0.0@jar",
+          "name": "OptiFine_1.12.2_HD_U_F5",
+          "type": "Library",
+          "artifact": {
+            "size": 2598821,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/OptiFine_1.12.2_HD_U_F5.jar",
+            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+          }
+        },
+        {
+          "id": "generated.library:OreLib:1.12.2-3.6.0.1@jar",
+          "name": "OreLib",
+          "type": "Library",
+          "artifact": {
+            "size": 341728,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/OreLib-1.12.2-3.6.0.1.jar",
+            "MD5": "00cce3b240365458adcad3e77782358a"
+          }
+        },
+        {
+          "id": "generated.library:Potato:vehicle-Industries-V5@jar",
+          "name": "Potato",
+          "type": "Library",
+          "artifact": {
+            "size": 16005806,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/Potato-vehicle-Industries-V5.jar",
+            "MD5": "5e02afb7361cdd455ae72fd8d1c16fba"
+          }
+        },
+        {
+          "id": "generated.library:PTRLib:1.0.5@jar",
+          "name": "PTRLib",
+          "type": "Library",
+          "artifact": {
+            "size": 169749,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/PTRLib-1.0.5.jar",
+            "MD5": "7376e09acb5d531d28cb4d28a7f190fd"
           }
         }
       ]
