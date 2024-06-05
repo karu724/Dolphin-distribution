@@ -488,7 +488,7 @@
         {
           "id": "com.pam:harvestcraft:1.12.2zg@jar",
           "name": "Pam's HarvestCraft",
-          "type": "ForgeMod",
+          "type": "Library",
           "artifact": {
             "size": 4912890,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/Pam's+HarvestCraft+1.12.2zg.jar",
