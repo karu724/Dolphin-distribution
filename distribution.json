@@ -713,7 +713,8 @@
             "size": 8499598,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/voicechat-forge-1.12.2-2.4.10.jar",
             "MD5": "284b6c0dd07630c92f3cfb7cf6ea01ad"
-          }
+          },
+          "required": false
         },
         {
           "id": "org.zawamod:zawa:2.1.3@jar",
