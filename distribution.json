@@ -724,6 +724,16 @@
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/zeras-SCPs-1.7.1.jar",
             "MD5": "695ab6fdbb173b7f5f021cd9fa6753c2"
           }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.12.2-2.4.10@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8499598,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/voicechat-forge-1.12.2-2.4.10.jar",
+            "MD5": "284b6c0dd07630c92f3cfb7cf6ea01ad"
+          }
         }
       ]
     }
