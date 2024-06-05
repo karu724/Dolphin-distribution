@@ -266,16 +266,6 @@
           }
         },
         {
-          "id": "fr.aym:sqript:1.2.4@jar",
-          "name": "Sqript",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1123561,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/ACsGuis-1.2.11-all.jar",
-            "MD5": "eedbbc509a6d1400138cb2a330e7c663"
-          }
-        },
-        {
           "id": "com.elytradev.architecture:architecturecraft:1.12-3.108@jar",
           "name": "ArchitectureCraft",
           "type": "ForgeMod",
