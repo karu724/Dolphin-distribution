@@ -496,7 +496,7 @@
           }
         },
         {
-          "id": "generated.library:Generals_General_Vehicles_2.4.1:0.0.0@jar",
+          "id": "generated.library:Generals_General_Vehicles_2.4.1:1.0@jar",
           "name": "Generals_General_Vehicles_2.4.1",
           "type": "ForgeMod",
           "artifact": {
@@ -516,7 +516,7 @@
           }
         },
         {
-          "id": "generated.library:Potato:vehicle-Industries-V5@jar",
+          "id": "generated.library:Potato:1.0@jar",
           "name": "Potato",
           "type": "ForgeMod",
           "artifact": {
