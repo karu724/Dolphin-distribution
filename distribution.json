@@ -668,7 +668,7 @@
         {
           "id": "generated.library:malisiscore:1.12.2-6.5.1@jar",
           "name": "malisiscore",
-          "type": "Library",
+          "type": "ForgeMod",
           "artifact": {
             "size": 1939783,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/malisiscore-1.12.2-6.5.1.jar",
