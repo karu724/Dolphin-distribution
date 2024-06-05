@@ -286,6 +286,16 @@
           }
         },
         {
+          "id": "mcheli:mcheli:1.1.3@jar",
+          "name": "MC Helicopter",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 80933504,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/mcheli-1.1.3.jar",
+            "MD5": "8e28caceea937e7d108423b73d6e1db8"
+          }
+        },
+        {
           "id": "kr.honeybee:BeeMod:1.0@jar",
           "name": "BeeMod",
           "type": "ForgeMod",
