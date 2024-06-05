@@ -256,16 +256,6 @@
           ]
         },
         {
-          "id": "net.geforcemods:securitycraft:v1.9.9@jar",
-          "name": "SecurityCraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3875576,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/[1.12.2]%20SecurityCraft%20v1.9.9.jar",
-            "MD5": "fa5146fd486bdf12fe90e21b76e37a6a"
-          }
-        },
-        {
           "id": "fr.aym:sqript:1.2.4@jar",
           "name": "Sqript",
           "type": "ForgeMod",
