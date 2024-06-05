@@ -638,7 +638,7 @@
         {
           "id": "generated.library:CTM:MC1.12.2-1.0.2.31@jar",
           "name": "CTM",
-          "type": "Library",
+          "type": "ForgeMod",
           "artifact": {
             "size": 199045,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/CTM-MC1.12.2-1.0.2.31.jar",
