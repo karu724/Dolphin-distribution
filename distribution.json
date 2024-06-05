@@ -20,8 +20,8 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
@@ -256,8 +256,18 @@
           ]
         },
         {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
-          "name": "Armourer's Workshop",
+          "id": "fr.aym:sqript:1.2.4@jar",
+          "name": "Sqript",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1123561,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/ACsGuis-1.2.11-all.jar",
+            "MD5": "eedbbc509a6d1400138cb2a330e7c663"
+          }
+        },
+        {
+          "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0@jar",
+          "name": "Armourers-Workshop-1.12.2-0.51.0",
           "type": "ForgeMod",
           "artifact": {
             "size": 2678747,
@@ -266,7 +276,7 @@
           }
         },
         {
-          "id": "kr.honeybee:BeeMod:2.0@jar",
+          "id": "kr.honeybee:BeeMod:1.0@jar",
           "name": "BeeMod",
           "type": "ForgeMod",
           "artifact": {
@@ -366,6 +376,16 @@
           }
         },
         {
+          "id": "generated.forgemod:generals_general_vehicles_2.4.1:0.0.0@jar",
+          "name": "Generals_General_Vehicles_2.4.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 115535209,
+            "url": "https://mediafilez.forgecdn.net/files/5294/386/Generals_General_Vehicles_2.4.1.jar",
+            "MD5": "31da285c387c2d1e0025b4b3d196587d"
+          }
+        },
+        {
           "id": "mcinterface1122:mts:22.14.2@jar",
           "name": "Immersive Vehicles (formerly MTS)",
           "type": "ForgeMod",
@@ -436,6 +456,16 @@
           }
         },
         {
+          "id": "generated.forgemod:potato:vehicle-Industries-V5@jar",
+          "name": "Potato",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16005806,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/Potato-vehicle-Industries-V5.jar",
+            "MD5": "5e02afb7361cdd455ae72fd8d1c16fba"
+          }
+        },
+        {
           "id": "alexiy.secure.contain.protect:scp:2.4.2@jar",
           "name": "SCP: Lockdown",
           "type": "ForgeMod",
@@ -496,16 +526,6 @@
           }
         },
         {
-          "id": "generated.library:Generals_General_Vehicles_2.4.1:1.0@jar",
-          "name": "Generals_General_Vehicles_2.4.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 115535209,
-            "url": "https://mediafilez.forgecdn.net/files/5294/386/Generals_General_Vehicles_2.4.1.jar",
-            "MD5": "31da285c387c2d1e0025b4b3d196587d"
-          }
-        },
-        {
           "id": "generated.library:mclib:2.3.5-1.12.2@jar",
           "name": "mclib",
           "type": "Library",
@@ -513,16 +533,6 @@
             "size": 649252,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/mclib-2.3.5-1.12.2.jar",
             "MD5": "30a64410b0cb66e19a02e3db6afcd998"
-          }
-        },
-        {
-          "id": "generated.library:Potato:1.0@jar",
-          "name": "Potato",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 16005806,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/Potato-vehicle-Industries-V5.jar",
-            "MD5": "5e02afb7361cdd455ae72fd8d1c16fba"
           }
         },
         {
