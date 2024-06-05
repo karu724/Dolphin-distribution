@@ -286,7 +286,7 @@
           }
         },
         {
-          "id": "kr.honeybee:BeeMod:1.0-SNAPSHOT@jar",
+          "id": "kr.honeybee:beemod:1.0-SNAPSHOT@jar",
           "name": "BeeMod",
           "type": "ForgeMod",
           "artifact": {
