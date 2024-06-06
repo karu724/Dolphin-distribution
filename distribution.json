@@ -348,7 +348,7 @@
         {
           "id": "fr.dynamx:dynamxmod:4.0.2@jar",
           "name": "DynamX",
-          "type": "ForgeMod",
+          "type": "Library",
           "artifact": {
             "size": 3141465,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/DynamX-4.0.2-all.jar",
