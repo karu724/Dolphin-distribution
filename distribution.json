@@ -256,8 +256,8 @@
           ]
         },
         {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
-          "name": "Armourer's Workshop",
+          "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
+          "name": "Armourers-Workshop-1.12.2-0.51.0",
           "type": "ForgeMod",
           "artifact": {
             "size": 2678747,
@@ -266,7 +266,7 @@
           }
         },
         {
-          "id": "kr.honeybee:BeeMod:1.0-SNAPSHOT@jar",
+          "id": "kr.honeybee:BeeMod:1.0@jar",
           "name": "BeeMod",
           "type": "ForgeMod",
           "artifact": {
