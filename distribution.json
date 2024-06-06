@@ -346,16 +346,6 @@
           }
         },
         {
-          "id": "fr.dynamx:dynamxmod:4.0.2@jar",
-          "name": "DynamX",
-          "type": "Library",
-          "artifact": {
-            "size": 3141465,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/DynamX-4.0.2-all.jar",
-            "MD5": "a09151a04b134bf6d53536a89059c86f"
-          }
-        },
-        {
           "id": "mchorse.emoticons:emoticons:1.0.1-1.12.2@jar",
           "name": "Emoticons",
           "type": "ForgeMod",
@@ -393,16 +383,6 @@
             "size": 37121488,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/mw3.0_sqr-0.7.25_BETA_mc1.12.2_3.jar",
             "MD5": "48688bf872f7b7ff703fc169f1c0349f"
-          }
-        },
-        {
-          "id": "fr.aym:ACsGuis:1.2.11@jar",
-          "name": "ACsGuis",
-          "type": "Library",
-          "artifact": {
-            "size": 1123561,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/ACsGuis-1.2.11-all.jar",
-            "MD5": "eedbbc509a6d1400138cb2a330e7c663"
           }
         },
         {
