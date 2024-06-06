@@ -266,7 +266,7 @@
           }
         },
         {
-          "id": "kr.honeybee:BeeMod:1.0@jar",
+          "id": "kr.honeybee:BeeMod:2.0@jar",
           "name": "BeeMod",
           "type": "ForgeMod",
           "artifact": {
@@ -346,6 +346,16 @@
           }
         },
         {
+          "id": "fr.dynamx:dynamxmod:4.0.2@jar",
+          "name": "DynamX",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3141465,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/DynamX-4.0.2-all.jar",
+            "MD5": "a09151a04b134bf6d53536a89059c86f"
+          }
+        },
+        {
           "id": "mchorse.emoticons:emoticons:1.0.1-1.12.2@jar",
           "name": "Emoticons",
           "type": "ForgeMod",
@@ -353,6 +363,16 @@
             "size": 2058816,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/emoticons-1.0.1-1.12.2-dist.jar",
             "MD5": "0d72d3d6eafddd6387280c5f7c77caeb"
+          }
+        },
+        {
+          "id": "mcheli:mcheli:1.1.3@jar",
+          "name": "MC Helicopter",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 80933504,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/forgemods/required/mcheli-1.1.3.jar",
+            "MD5": "8e28caceea937e7d108423b73d6e1db8"
           }
         },
         {
@@ -439,6 +459,16 @@
           }
         },
         {
+          "id": "generated.library:ACsGuis:1.2.11-all@jar",
+          "name": "ACsGuis",
+          "type": "Library",
+          "artifact": {
+            "size": 1123561,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/ACsGuis-1.2.11-all.jar",
+            "MD5": "eedbbc509a6d1400138cb2a330e7c663"
+          }
+        },
+        {
           "id": "generated.library:mclib:2.3.5-1.12.2@jar",
           "name": "mclib",
           "type": "Library",
@@ -466,6 +496,215 @@
             "size": 169749,
             "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/PTRLib-1.0.5.jar",
             "MD5": "7376e09acb5d531d28cb4d28a7f190fd"
+          }
+        },
+        {
+          "id": "ghost_chassis_12.5.0.dc",
+          "name": "ghost_chassis_12.5.0.dc",
+          "type": "File",
+          "artifact": {
+            "size": 4959,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/DartcherPack/assets/dynamxmod/models/obj/ghost/ghost_chassis_12.5.0.dc",
+            "MD5": "a2a578aa3f17d79dcbfb934e9cc42995",
+            "path": "DynamX/DartcherPack/assets/dynamxmod/models/obj/ghost/ghost_chassis_12.5.0.dc"
+          }
+        },
+        {
+          "id": "DartcherPack-nk0516.dnxpack",
+          "name": "DartcherPack-nk0516.dnxpack",
+          "type": "File",
+          "artifact": {
+            "size": 574344,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/DartcherPack-nk0516.dnxpack",
+            "MD5": "9e8bc6b6222f2a4916bed65e4020f746",
+            "path": "DynamX/DartcherPack-nk0516.dnxpack"
+          }
+        },
+        {
+          "id": "GreenPack (3).dnxpack",
+          "name": "GreenPack (3).dnxpack",
+          "type": "File",
+          "artifact": {
+            "size": 88747096,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/GreenPack%20(3).dnxpack",
+            "MD5": "4f3a4f78ac33c5526762a46490f6a8d1",
+            "path": "DynamX/GreenPack (3).dnxpack"
+          }
+        },
+        {
+          "id": "alfaromeogiulia_chassis_12.5.0.dc",
+          "name": "alfaromeogiulia_chassis_12.5.0.dc",
+          "type": "File",
+          "artifact": {
+            "size": 1731,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/GreenPack-ARGiulia/assets/dynamxmod/models/obj/alfaromeogiulia/alfaromeogiulia_chassis_12.5.0.dc",
+            "MD5": "bef857fb2cae13f46e09c3aca5ca2caa",
+            "path": "DynamX/GreenPack-ARGiulia/assets/dynamxmod/models/obj/alfaromeogiulia/alfaromeogiulia_chassis_12.5.0.dc"
+          }
+        },
+        {
+          "id": "GreenPack-ARGiulia.dnxpack",
+          "name": "GreenPack-ARGiulia.dnxpack",
+          "type": "File",
+          "artifact": {
+            "size": 2794949,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/GreenPack-ARGiulia.dnxpack",
+            "MD5": "8a51073dbebbaa8c674a05d47a1cc6bd",
+            "path": "DynamX/GreenPack-ARGiulia.dnxpack"
+          }
+        },
+        {
+          "id": "GreenPack-VolvoS90.dnxpack",
+          "name": "GreenPack-VolvoS90.dnxpack",
+          "type": "File",
+          "artifact": {
+            "size": 2591856,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/GreenPack-VolvoS90.dnxpack",
+            "MD5": "ee5331bcd6135203102728ecdf5e78f0",
+            "path": "DynamX/GreenPack-VolvoS90.dnxpack"
+          }
+        },
+        {
+          "id": "SylFly.dnxpack",
+          "name": "SylFly.dnxpack",
+          "type": "File",
+          "artifact": {
+            "size": 3337703,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/SylFly.dnxpack",
+            "MD5": "5309e5c81da7c09a2407243636aaa0ee",
+            "path": "DynamX/SylFly.dnxpack"
+          }
+        },
+        {
+          "id": "en_US.lang",
+          "name": "en_US.lang",
+          "type": "File",
+          "artifact": {
+            "size": 1006,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/SylPack-Corvette/assets/dynamxmod/lang/en_US.lang",
+            "MD5": "aeac97bf421a7ee3a9ca4367cade3ef0",
+            "path": "DynamX/SylPack-Corvette/assets/dynamxmod/lang/en_US.lang"
+          }
+        },
+        {
+          "id": "corvettez06_chassis_12.5.0.dc",
+          "name": "corvettez06_chassis_12.5.0.dc",
+          "type": "File",
+          "artifact": {
+            "size": 841,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/SylPack-Corvette/assets/dynamxmod/models/obj/corvettez06/corvettez06_chassis_12.5.0.dc",
+            "MD5": "80aa474811c78184d425571bb8822dc4",
+            "path": "DynamX/SylPack-Corvette/assets/dynamxmod/models/obj/corvettez06/corvettez06_chassis_12.5.0.dc"
+          }
+        },
+        {
+          "id": "corvettez06_doorengine_12.5.0.dc",
+          "name": "corvettez06_doorengine_12.5.0.dc",
+          "type": "File",
+          "artifact": {
+            "size": 1982,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/SylPack-Corvette/assets/dynamxmod/models/obj/corvettez06/corvettez06_doorengine_12.5.0.dc",
+            "MD5": "0169a8523ed29854efe1448d40e759a0",
+            "path": "DynamX/SylPack-Corvette/assets/dynamxmod/models/obj/corvettez06/corvettez06_doorengine_12.5.0.dc"
+          }
+        },
+        {
+          "id": "corvettez06_doorfrontleft_12.5.0.dc",
+          "name": "corvettez06_doorfrontleft_12.5.0.dc",
+          "type": "File",
+          "artifact": {
+            "size": 2027,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/SylPack-Corvette/assets/dynamxmod/models/obj/corvettez06/corvettez06_doorfrontleft_12.5.0.dc",
+            "MD5": "b9d8d13638d28496d3604a0fd08f0547",
+            "path": "DynamX/SylPack-Corvette/assets/dynamxmod/models/obj/corvettez06/corvettez06_doorfrontleft_12.5.0.dc"
+          }
+        },
+        {
+          "id": "corvettez06_doorfrontright_12.5.0.dc",
+          "name": "corvettez06_doorfrontright_12.5.0.dc",
+          "type": "File",
+          "artifact": {
+            "size": 1707,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/SylPack-Corvette/assets/dynamxmod/models/obj/corvettez06/corvettez06_doorfrontright_12.5.0.dc",
+            "MD5": "31d913246b623ff7036ad38132d499c4",
+            "path": "DynamX/SylPack-Corvette/assets/dynamxmod/models/obj/corvettez06/corvettez06_doorfrontright_12.5.0.dc"
+          }
+        },
+        {
+          "id": "corvettez06_doorhood_12.5.0.dc",
+          "name": "corvettez06_doorhood_12.5.0.dc",
+          "type": "File",
+          "artifact": {
+            "size": 872,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/SylPack-Corvette/assets/dynamxmod/models/obj/corvettez06/corvettez06_doorhood_12.5.0.dc",
+            "MD5": "bab6d7c6fb3894dc737707a595b8169a",
+            "path": "DynamX/SylPack-Corvette/assets/dynamxmod/models/obj/corvettez06/corvettez06_doorhood_12.5.0.dc"
+          }
+        },
+        {
+          "id": "SylPack-Corvette (1).dnxpack",
+          "name": "SylPack-Corvette (1).dnxpack",
+          "type": "File",
+          "artifact": {
+            "size": 2960130,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/SylPack-Corvette%20(1).dnxpack",
+            "MD5": "f6587b9048b4833c0c72f9bbfaf964ee",
+            "path": "DynamX/SylPack-Corvette (1).dnxpack"
+          }
+        },
+        {
+          "id": "cupraleon_chassis_12.5.0.dc",
+          "name": "cupraleon_chassis_12.5.0.dc",
+          "type": "File",
+          "artifact": {
+            "size": 1937,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/SylPack-CupraLeon/assets/dynamxmod/models/obj/cupraleon/cupraleon_chassis_12.5.0.dc",
+            "MD5": "2ca13e1b1cd4c774250a76854a5ae801",
+            "path": "DynamX/SylPack-CupraLeon/assets/dynamxmod/models/obj/cupraleon/cupraleon_chassis_12.5.0.dc"
+          }
+        },
+        {
+          "id": "cupraleon_doorhood_12.5.0.dc",
+          "name": "cupraleon_doorhood_12.5.0.dc",
+          "type": "File",
+          "artifact": {
+            "size": 1146,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/SylPack-CupraLeon/assets/dynamxmod/models/obj/cupraleon/cupraleon_doorhood_12.5.0.dc",
+            "MD5": "90d7d3f7f94e6ff90627491e15d5384f",
+            "path": "DynamX/SylPack-CupraLeon/assets/dynamxmod/models/obj/cupraleon/cupraleon_doorhood_12.5.0.dc"
+          }
+        },
+        {
+          "id": "SylPack-CupraLeon.dnxpack",
+          "name": "SylPack-CupraLeon.dnxpack",
+          "type": "File",
+          "artifact": {
+            "size": 2622680,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/SylPack-CupraLeon.dnxpack",
+            "MD5": "b5c5494f921cd6b3b2648be42b21b01d",
+            "path": "DynamX/SylPack-CupraLeon.dnxpack"
+          }
+        },
+        {
+          "id": "SylPack.dnxpack",
+          "name": "SylPack.dnxpack",
+          "type": "File",
+          "artifact": {
+            "size": 4866258,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/SylPack.dnxpack",
+            "MD5": "593816f010c94941ba727a34d6fb4888",
+            "path": "DynamX/SylPack.dnxpack"
+          }
+        },
+        {
+          "id": "Windows64ReleaseSp_18.1.0_bulletjme.dll",
+          "name": "Windows64ReleaseSp_18.1.0_bulletjme.dll",
+          "type": "File",
+          "artifact": {
+            "size": 2327552,
+            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/files/DynamX/Windows64ReleaseSp_18.1.0_bulletjme.dll",
+            "MD5": "fb520c983479ce79a62c686444ba96bc",
+            "path": "DynamX/Windows64ReleaseSp_18.1.0_bulletjme.dll"
           }
         }
       ]
