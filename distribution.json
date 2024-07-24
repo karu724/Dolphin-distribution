@@ -311,7 +311,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 589823,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/forgemods/required/CookingForBlockheads_1.12.2-6.4.70.jar",
+            "url": "https://github.com/karu724/dolphin-distribution/raw/main/forgemods/required/CookingForBlockheads_1.12.2-6.4.71%20(1).jar",
             "MD5": "5460d5ae7b11633b403fd02f8d69b156"
           }
         },
