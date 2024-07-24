@@ -459,16 +459,6 @@
           }
         },
         {
-          "id": "generated.library:ACsGuis:1.2.11-all@jar",
-          "name": "ACsGuis",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1123561,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/servers/Dolphin-1.12.2/libraries/ACsGuis-1.2.11-all.jar",
-            "MD5": "eedbbc509a6d1400138cb2a330e7c663"
-          }
-        },
-        {
           "id": "generated.library:mclib:2.3.5-1.12.2@jar",
           "name": "mclib",
           "type": "Library",
