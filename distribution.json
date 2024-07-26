@@ -266,16 +266,6 @@
           }
         },
         {
-          "id": "kr.honeybee:BeeMod:2.0@jar",
-          "name": "BeeMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 47866,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/forgemods/required/BeeMod-2.0.jar",
-            "MD5": "eb206e785a46bf691472145dcd6642d2"
-          }
-        },
-        {
           "id": "net.soggymustache:bookworm:2.5.2.1@jar",
           "name": "Bookworm Library",
           "type": "ForgeMod",
