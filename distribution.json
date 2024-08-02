@@ -339,16 +339,6 @@
           }
         },
         {
-          "id": "mchorse.emoticons:emoticons:1.0.1-1.12.2@jar",
-          "name": "Emoticons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2058816,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/forgemods/required/emoticons-1.0.1-1.12.2-dist.jar",
-            "MD5": "0d72d3d6eafddd6387280c5f7c77caeb"
-          }
-        },
-        {
           "id": "creo.mod:koreanchat:1.12-1.9@jar",
           "name": "Korean Chat",
           "type": "ForgeMod",
